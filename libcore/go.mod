@@ -2,7 +2,7 @@ module libcore
 
 go 1.23.1
 
-toolchain go1.23.6
+toolchain go1.27.1
 
 require (
 	github.com/matsuridayo/libneko v1.0.0 // replaced
